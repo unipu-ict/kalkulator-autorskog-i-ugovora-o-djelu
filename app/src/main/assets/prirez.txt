@@ -1,0 +1,319 @@
+Andrijaševci 8.00
+Antunovac 10.00
+Babina Greda 5.00
+Bale 1.00
+Barban 5.00
+Bedenica 3.00
+Bednja 10.00
+Beli Manastir 5.00
+Belica 1.00
+Belišće 10.00
+Benkovac 5.00
+Beretinec 7.00
+Bilice 10.00
+Bilje 5.00
+Biograd na moru 12.00
+Biskupija 4.00
+Bistra 10.00
+Bizovac 3.00
+Bjelovar 12.00
+Blato 10.00
+Bol 10.00
+Borovo 10.00
+Bošnjaci 5.00
+Brckovaljni 3.00
+Brdovec 10.00
+Brela 5.00
+Brestovac 5.00
+Breznica 10.00
+Breznički Hum 3.00
+Brinje 10.00
+Brodski Stupnik 10.00
+Buje 6.00
+Bukovlje 5.00
+Buzet 6.00
+Čabar 5.00
+Čaglin 5.00
+Čakovec 10.00
+Čazma 10.00
+Čeminac 10.00
+Čepin 10.00
+Cerna 5.00
+Cernik 10.00
+Cerovlje 2.00
+Cestica 10.00
+Cista Provo 3.00
+Civljane 5.00
+Crikvenica 10.00
+Darda 5.00
+Daruvar 10.00
+Davor 10.00
+Delnice 5.00
+Dežanovac 5.00
+Dicmo 8.00
+Donja Stubica 10.00
+Donja Voća 10.00
+Donji Andrijevci 8.00
+Donji Kukuruzari 6.00
+Donji Lapac 5.00
+Donji Martijanec 5.00
+Donji Miholjac 8.00
+Dragalić 10.00
+Draž 2.00
+Drenovci 5.00
+Drniš 5.00
+Dubrava 6.00
+Dubravica 7.00
+Dubrovačko primorje 10.00
+Dubrovnik 10.00
+Duga Resa 10.00
+Dugo Selo 9.00
+Dugopolje 8.00
+Dvor 5.00
+Đakovo 10.00
+Đurđenovac 10.00
+Đurmanec 0.00
+Erdut 1.00
+Ernestovo 10.00
+Ervenik 3.00
+Farkaševac 3.00
+Fažana 3.00
+Ferićanci 10.00
+Fužine 5.00
+Garčin 10.00
+Garešnica 10.00
+Gornji Bogićevci 5.00
+Gornji Kneginec 10.00
+Gospić 10.00
+Gračac 7.00
+Gračišće 5.00
+Gradec 5.00
+Grubišno polje 10.00
+Gunja 5.00
+Hrašćina 5.00
+Hrvace 10.00
+Hrvatska Dubica 3.00
+Hrvatska Kostajnica 6.00
+Ilok 5.00
+Imotski 12.00
+Ivanec 10.00
+Ivanić Grad 6.00
+Ivankovo 10.00
+Jagodnjak 3.00
+Jakovlje 5.00
+Jakšić 10.00
+Jastrebarsko 9.00
+Jelsa 10.00
+Kamanje 10.00
+Kanfanar 5.00
+Kapela 8.00
+Kaptol 10.00
+Karlovac 14.00
+Karojba 5.00
+Kaštel - Labinci 5.00
+Kaštela 12.00
+Kaštelir-Labinci-Castelliere-S.Domenica 5.00
+Kijevo 5.00
+Kistanje 3.00
+Klanjec 12.00
+Klenovnik 7.00
+Klinča Sela 10.00
+Klis 10.00
+Kloštar Ivanić 2.00
+Kloštar Podravski 5.00
+Kneževi Vinogradi 5.00
+Knin 10.00
+Komiža 5.00
+Konavle 10.00
+Končanica 5.00
+Konjščina 10.00
+Korčula 6.00
+Kostajnica 6.00
+Kraljevica 5.00
+Krašić 6.00
+Kravarsko 5.00
+Križ 2.00
+Križevci 10.00
+Krnjak 8.00
+Kula Norinska 10.00
+Kutina 12.00
+Labin 6.00
+Lanišće 5.00
+Lasinja 10.00
+Lastovo 3.00
+Lepoglava 8.00
+Lipovljani 6.00
+Lišane Ostrovičke 6.00
+Ližnjan 5.00
+Ljubešćica 10.00
+Lokvičići 7.00
+Lovas 5.00
+Lovinac 8.00
+Ludbreg 8.00
+Luka 5.00
+Lukač 8.00
+Lumbarda 5.00
+Lupoglav 1.00
+Magadenovac 2.00
+Majur 5.00
+Makarska 10.00
+Mali Bukovac 5.00
+Marčana 5.00
+Marija Gorica 10.00
+Marijanci 5.00
+Markušica 5.00
+Maruševec 5.00
+Medulin 5.00
+Metković 10.00
+Milna 3.00
+Mljet 10.00
+Motovun 1.00
+Mrkopalj 7.00
+Muć 7.00
+Murter 8.00
+Našice 8.00
+Negoslavci 5.00
+Nova Gradiška 12.00
+Nova Kapela 10.00
+Novi Marof 10.00
+Novi Vinodolski 7.00
+Novska 10.00
+Nuštar 6.00
+Ogulin 10.00
+Okučani 10.00
+Omiš 8.00
+Opatija 7.50
+Općina Gračac 7.00
+Općina Gracin 10.00
+Općina Špišić Bukovica 9.00
+Opuzen 10.00
+Orle 5.00
+Osijek 13.00
+Otočac 9.00
+Otok 10.00
+Ozalj 10.00
+Pakrac 10.00
+Pazin 9.00
+Perušić 8.00
+Petlovac 5.00
+Petrijanec 5.00
+Petrijevci 5.00
+Petrinja 10.00
+Pićan 2.00
+Pirovac 6.00
+Pisarovina 6.00
+Pleternica 10.00
+Plitvička jezera 5.00
+Ploče 10.00
+Podbablje 6.00
+Podcrkavlje 5.00
+Podgora 10.00
+Podgorač 5.00
+Podstrana 8.00
+Pokupsko 5.00
+Polača 10.00
+Popovac 3.00
+Popovača 6.00
+Požega 10.00
+Pregrada 10.00
+Preseka 5.00
+Primošten 10.00
+Proložac 5.00
+Promina 5.00
+Pučišća 5.00
+Pula 12.00
+Pušća 10.00
+Rakovec 3.00
+Rakovica 8.00
+Raša 6.00
+Ravna Gora 7.50
+Rešetari 10.00
+Ribnik 5.00
+Rijeka 15.00
+Rovinj 6.00
+Rugvica 6.00
+Runovići 6.00
+Ružić 5.00
+Senj 10.00
+Šibenik 10.00
+Sibinj 10.00
+Sinj 8.00
+Sisak 10.00
+Škabrnja 10.00
+Skradin 5.00
+Slatina 6.00
+Slavonski Brod 12.00
+Slunj 5.00
+Solin 10.00
+Špišić Bukovica 9.00
+Split 15.00
+Sračinec 5.00
+Stara Gradiška 5.00
+Stari Grad 10.00
+Stari Mikanovci 10.00
+Staro Petrovo Selo 10.00
+Štefanje 10.00
+Štitar 10.00
+Stupnik 6.00
+Sutivan 10.00
+Sveta Nedelja Labin) 6.00
+Sveta Nedjelja Samoborska) 6.00
+Sveti Đurđ 5.00
+Sveti Filip i Jakov 10.00
+Sveti Ilija 10.00
+Sveti Ivan Zelina 12.00
+Sveti Lovreč 5.00
+Sveti Petar u šumi 7.00
+Svetvinčenat 5.00
+Tinjan 5.00
+Tisno 9.00
+Tordinci 5.00
+Tribunj 6.00
+Trnovec Bartolovečki 3.00
+Trogir 8.00
+Trpanj 10.00
+Tučepi 10.00
+Udbina 5.00
+Umag 6.00
+Unešić 5.00
+Valpovo 8.00
+Varaždin 10.00
+Varaždinske Toplice 10.00
+Vela Luka 9.00
+Velika Gorica 12.00
+Velika Kopanica 7.00
+Veliki Bukovec 5.00
+Veliko Trgovišće 7.50
+Vidovec 10.00
+Vinica 5.00
+Vinkovci 13.00
+Virovitica 10.00
+Vis 3.00
+Višnjan 5.00
+Visoko 10.00
+Vižinada-Visinada 3.00
+Vladislavci 10.00
+Vodice 6.00
+Vodnjan - Dignano 7.50
+Vođinci 10.00
+Vojnić 7.50
+Vrbanja 5.00
+Vrbje 3.00
+Vrbovec 12.00
+Vrbovsko 10.00
+Vrgorac 10.00
+Vrhovine 5.00
+Vrlika 7.00
+Zadar 12.00
+Zadvarje 1.00
+Zagreb 18.00
+Zagvozd 6.00
+Žakanje 5.00
+Zaprešić 12.00
+Zlatar 10.00
+Zlatar Bistrica 5.00
+Zmijavci 8.00
+Žminj 5.00
+Žumberak 3.00
+Župa Dubrovačka 10.00
+Županja 12.00

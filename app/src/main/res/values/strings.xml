@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BNCalculator</string>
+    <string name="btn_djelo">UGOVOR O DJELU</string>
+    <string name="btn_autor">AUTORSKI UGOVOR</string>
+    <string name="text_head">Odaberite željenu vrstu ugovora za izračun:</string>
+    <string name="text_main_head1">KALKULATOR</string>
+    <string name="text_main_head2">AUTORSKOG I UGOVORA O DJELU</string>
+    <string name="text_iznos">Upisani iznos je:</string>
+    <string name="text_NETO">NETO</string>
+    <string name="text_BRUTO">BRUTO</string>
+    <string name="text_osig">Osiguranik MIO 2.stup</string>
+    <string name="text_obv">Obveznik PDV-a</string>
+    <string name="text_umir">Umirovljenik</string>
+    <string name="text_obr">OBRAČUN</string>
+    <string name="text_umj">Umjetnik</string>
+    <string name="text_izdatak">Izdatak</string>
+    <string name="text_osnovica">Osnovica za obračun doprinosa</string>
+    <string name="text_prviS">I. stup mirovinskog osiguranja</string>
+    <string name="text_drugiS">II. Stup mirovinskog osiguranja</string>
+    <string name="text_brutoDoprinos">Ukupni doprinos iz bruta</string>
+    <string name="text_poreznaOsn">Porezna osnovica</string>
+    <string name="text_porez">Porez</string>
+    <string name="text_prirez">Prirez</string>
+    <string name="text_ukupniPorez">Ukupni porez</string>
+    <string name="text_zdrDoprinos">Doprinos za zdravstveno osiguranje</string>
+    <string name="text_ukupniTrošak">Ukupni trošak</string>
+
+    <string name="iznos_text">Iznos</string>>
+
+
+</resources>
